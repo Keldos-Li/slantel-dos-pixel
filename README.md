@@ -27,7 +27,7 @@ Support a few Latin letters (maybe I will support more language characters next.
 
 ## Installation
 
-*   [Latest release](https://github.com/keldos-li/slantel-dos-pixel/tree/release)
+*   [Latest release](https://github.com/Keldos-Li/slantel-dos-pixel/releases/latest)
 
 Available in variable font and single weight versions.
 
