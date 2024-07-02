@@ -42,7 +42,7 @@ value = (
 );
 }
 );
-date = "2024-07-01 15:50:57 +0000";
+date = "2024-07-02 04:13:07 +0000";
 familyName = "Slantel Dos Pixel";
 featurePrefixes = (
 {
@@ -112,6 +112,12 @@ axesValues = (
 700,
 10
 );
+customParameters = (
+{
+name = "Link Metrics With First Master";
+value = 1;
+}
+);
 iconName = Bold;
 id = m002;
 metricValues = (
@@ -143,6 +149,12 @@ name = Bold;
 axesValues = (
 400,
 90
+);
+customParameters = (
+{
+name = "Link Metrics With First Master";
+value = 1;
+}
 );
 iconName = Extended;
 id = m003;
@@ -5158,7 +5170,7 @@ unicode = 83;
 glyphname = T;
 kernLeft = T;
 kernRight = T;
-lastChange = "2024-07-01 14:43:24 +0000";
+lastChange = "2024-07-02 04:04:37 +0000";
 layers = (
 {
 layerId = m01;
@@ -5602,7 +5614,7 @@ unicode = 85;
 glyphname = V;
 kernLeft = V;
 kernRight = V;
-lastChange = "2024-07-01 14:43:24 +0000";
+lastChange = "2024-07-02 04:00:53 +0000";
 layers = (
 {
 layerId = m01;
@@ -12490,7 +12502,8 @@ metricRight = f;
 },
 {
 glyphname = f_f_i;
-lastChange = "2024-07-01 14:43:24 +0000";
+kernLeft = f;
+lastChange = "2024-07-02 04:01:23 +0000";
 layers = (
 {
 layerId = m01;
@@ -27439,10 +27452,9 @@ weightClass = 700;
 );
 kerningLTR = {
 m01 = {
-"@MMK_L_A " = {
-"@MMK_R_T" = -40;
-"@MMK_R_V" = -38;
-k = 4;
+"@MMK_L_A" = {
+"@MMK_R_T" = -30;
+"@MMK_R_V" = -13;
 };
 "@MMK_L_C" = {
 "@MMK_R_o" = 15;
@@ -27453,7 +27465,7 @@ O = 0;
 "@MMK_R_v" = 10;
 };
 "@MMK_L_H" = {
-v = -2;
+"@MMK_R_v" = -2;
 };
 "@MMK_L_L" = {
 "@MMK_R_A" = 2;
@@ -27513,6 +27525,7 @@ question = 106;
 };
 "@MMK_L_i" = {
 "@MMK_R_f" = -41;
+l = 4;
 };
 "@MMK_L_l" = {
 "@MMK_R_o" = 5;
@@ -27541,9 +27554,9 @@ colon = 30;
 "@MMK_R_houyinhao" = -20;
 "@MMK_R_t" = -50;
 "@MMK_R_u" = -22;
-j = -13;
 m = -20;
 s = -10;
+"@MMK_R_j" = -13;
 };
 "@MMK_L_v" = {
 "@MMK_R_juhao" = -77;
@@ -27585,9 +27598,6 @@ d = 5;
 };
 h = {
 "@MMK_R_o" = -16;
-};
-i = {
-l = 4;
 };
 m = {
 "@MMK_R_u" = -10;
@@ -27603,11 +27613,6 @@ s = {
 };
 };
 m002 = {
-"@MMK_L_A " = {
-"@MMK_R_T" = -40;
-"@MMK_R_V" = -38;
-k = 4;
-};
 "@MMK_L_C" = {
 "@MMK_R_o" = 15;
 O = 0;
@@ -27617,7 +27622,7 @@ O = 0;
 "@MMK_R_v" = 10;
 };
 "@MMK_L_H" = {
-v = -2;
+"@MMK_R_v" = -2;
 };
 "@MMK_L_L" = {
 "@MMK_R_A" = 2;
@@ -27677,6 +27682,7 @@ question = 106;
 };
 "@MMK_L_i" = {
 "@MMK_R_f" = -41;
+l = 4;
 };
 "@MMK_L_l" = {
 "@MMK_R_o" = 5;
@@ -27705,9 +27711,9 @@ colon = 30;
 "@MMK_R_houyinhao" = -20;
 "@MMK_R_t" = -50;
 "@MMK_R_u" = -22;
-j = -13;
 m = -20;
 s = -10;
+"@MMK_R_j" = -13;
 };
 "@MMK_L_v" = {
 "@MMK_R_juhao" = -77;
@@ -27749,9 +27755,6 @@ d = 5;
 };
 h = {
 "@MMK_R_o" = -16;
-};
-i = {
-l = 4;
 };
 m = {
 "@MMK_R_u" = -10;
@@ -27767,10 +27770,8 @@ s = {
 };
 };
 m003 = {
-"@MMK_L_A " = {
-"@MMK_R_T" = -40;
-"@MMK_R_V" = -38;
-k = 4;
+"@MMK_L_A" = {
+"@MMK_R_T" = -38;
 };
 "@MMK_L_C" = {
 "@MMK_R_o" = 15;
@@ -27781,7 +27782,7 @@ O = 0;
 "@MMK_R_v" = 10;
 };
 "@MMK_L_H" = {
-v = -2;
+"@MMK_R_v" = -2;
 };
 "@MMK_L_L" = {
 "@MMK_R_A" = 2;
@@ -27841,6 +27842,7 @@ question = 106;
 };
 "@MMK_L_i" = {
 "@MMK_R_f" = -41;
+l = 4;
 };
 "@MMK_L_l" = {
 "@MMK_R_o" = 5;
@@ -27869,9 +27871,9 @@ colon = 30;
 "@MMK_R_houyinhao" = -20;
 "@MMK_R_t" = -50;
 "@MMK_R_u" = -22;
-j = -13;
 m = -20;
 s = -10;
+"@MMK_R_j" = -13;
 };
 "@MMK_L_v" = {
 "@MMK_R_juhao" = -77;
@@ -27913,9 +27915,6 @@ d = 5;
 };
 h = {
 "@MMK_R_o" = -16;
-};
-i = {
-l = 4;
 };
 m = {
 "@MMK_R_u" = -10;
@@ -28027,5 +28026,5 @@ gridSubDivision = 100;
 };
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 4;
+versionMinor = 5;
 }
