@@ -9,19 +9,19 @@ Support a few Latin letters (maybe I will support more language characters next.
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="docs/imgs/slantel-dos-pixel_0.dark.svg">
-<img src="docs/imgs/slantel-dos-pixel_0.svg" alt="Slantel Dos Pixel 0" title="Smiley Sans 0">
+<img src="docs/imgs/slantel-dos-pixel_0.svg" alt="Slantel Dos Pixel Specimen 01" title="Slantel Dos Pixel Specimen 01">
 </picture>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="docs/imgs/slantel-dos-pixel_1.dark.svg">
-<img src="docs/imgs/slantel-dos-pixel_1.svg" alt="Slantel Dos Pixel 01" title="Smiley Sans 01">
+<img src="docs/imgs/slantel-dos-pixel_1.svg" alt="Slantel Dos Pixel Specimen 02" title="Slantel Dos Pixel Specimen 02">
 </picture>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="docs/imgs/slantel-dos-pixel_2.dark.svg">
-<img src="docs/imgs/slantel-dos-pixel_2.svg" alt="Slantel Dos Pixel 02" title="Smiley Sans 02">
+<img src="docs/imgs/slantel-dos-pixel_2.svg" alt="Slantel Dos Pixel Specimen 03" title="Slantel Dos Pixel Specimen 03">
 </picture>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="docs/imgs/slantel-dos-pixel_3.dark.svg">
-<img src="docs/imgs/slantel-dos-pixel_3.svg" alt="Slantel Dos Pixel 03" title="Smiley Sans 03">
+<img src="docs/imgs/slantel-dos-pixel_3.svg" alt="Slantel Dos Pixel Specimen 04" title="Slantel Dos Pixel Specimen 04">
 </picture>
 
 
