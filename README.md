@@ -29,7 +29,7 @@ Support a few Latin letters (maybe I will support more language characters next.
 
 *   [Latest release](https://github.com/keldos-li/slantel-dos-pixel/tree/release)
 
-提供可变字体版本和单字重版本。
+Available in variable font and single weight versions.
 
 ## License
 
